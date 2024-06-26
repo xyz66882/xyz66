@@ -1,0 +1,52 @@
+{
+    "urls": [
+        {
+            "url": "http://肥猫.live",
+            "name": "肥猫"
+        },
+        {
+            "url": "http://www.饭太硬.com/tv/",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://gitee.com/xigua688/tvbox/raw/master/fty.json",
+            "name": "多仓库"
+        },
+        {
+            "url": "https://gitee.com/xigua688/tvbox/raw/master/fty.json",
+            "name": "别人维护"
+        },
+        {
+            "url": "http://rihou.vip:55/天天开心",
+            "name": "天天开心"
+        },
+        {
+            "url": "http://tvbox.稳定接口.com",
+            "name": "V哥接口"
+        },
+        {
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "道长线路"
+        },
+        {
+            "url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json",
+            "name": "影视仓Box接口"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "直播1"
+        },
+        {
+            "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+            "name": "直播2"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "直播3"
+        },
+        {
+            "url": "https://idamidm2.com/",
+            "name": "失效🚒运输车（4k）"
+        }
+    ]
+}
